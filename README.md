@@ -1,65 +1,75 @@
-# [cite_start]SIMÓN PÉREZ ECHAVARRÍA [cite: 1]
+<div align="center">
+  <img src="https-user-images.githubusercontent.com/12345678/123456789-abcdef123456.gif" alt="Banner dinámico de código" width="800"/>
+</div>
 
-### [cite_start]CIENTÍFICO DE DATOS [cite: 2]
+# 👋 ¡Hola! Soy Simón Pérez Echavarría
 
-¡Hola! [cite_start]Soy Simón, un Científico de Datos [cite: 2] [cite_start]apasionado por la programación y la automatización de procesos[cite: 9]. [cite_start]Mi experiencia se centra en el desarrollo de modelos predictivos usando algoritmos de aprendizaje autónomo, la creación de programas de visión por computadora y el manejo de grandes volúmenes de datos[cite: 7].
+## 👨‍💻 Científico de Datos | Apasionado por el Machine Learning y la Automatización
 
-[cite_start]Me considero una persona creativa, ingeniosa y resiliente, con una fuerte habilidad para el trabajo en equipo[cite: 8].
-
----
-
-### 🚀 Áreas de Expertise
-
-* [cite_start]**Modelado Predictivo:** Desarrollo y despliegue de modelos de machine learning [cite: 33] [cite_start]orientados a generar valor tangible para el negocio[cite: 33].
-* [cite_start]**Big Data:** Aseguro la calidad y consistencia de los datos mediante procesos de limpieza y transformación a gran escala con PySpark[cite: 32]. [cite_start]Trabajo con plataformas como Databricks para orquestar pipelines y flujos de producción eficientes[cite: 34].
-* [cite_start]**Gestión de Modelos (MLOps):** Realizo el seguimiento y la gestión del ciclo de vida de los modelos a través de MLflow[cite: 34].
-* [cite_start]**Análisis y Visualización:** Utilizo Python [cite: 38] [cite_start]y SQL [cite: 38] [cite_start]para procesar y transformar grandes volúmenes de información[cite: 38]. [cite_start]Desarrollo dashboards dinámicos e interactivos en Looker Studio para visualizar KPIs clave[cite: 39].
-* **Lenguajes y Herramientas:**
-    * [cite_start]Python [cite: 16, 38]
-    * [cite_start]PySpark [cite: 17, 32]
-    * [cite_start]SQL [cite: 38]
-    * [cite_start]Machine Learning [cite: 18, 33]
-    * [cite_start]MLflow [cite: 19, 34]
-    * [cite_start]Databricks [cite: 34]
-    * [cite_start]Looker Studio [cite: 39]
+<p align="center">
+  <em>Transformando datos en soluciones de negocio a través de la programación y la analítica avanzada.</em>
+</p>
 
 ---
 
-### ✨ Proyectos Destacados
+Soy un **Científico de Datos** con experiencia en el ciclo completo de proyectos de analítica, desde la exploración de datos hasta el despliegue de modelos predictivos. Me especializo en **visión por computadora** y en el manejo de **grandes volúmenes de datos**. Me considero una persona creativa, ingeniosa y resiliente, con una gran capacidad para el trabajo en equipo.
 
-#### 1. Clusterización para Catálogo de Clientes (Kaggle)
-*Análisis para segmentar clientes utilizando algoritmos de aprendizaje no supervisado, permitiendo una personalización más efectiva de las estrategias de marketing.*
+### 💡 Mis Principales Habilidades
 
-<br>
+| **Categoría** | **Tecnologías y Habilidades** |
+| :--- | :--- |
+| 🐍 **Lenguajes** | Python, SQL |
+| ⚙️ **Big Data** | PySpark, Databricks |
+| 🧠 **Machine Learning** | Modelado Predictivo, Visión por Computadora, MLOps |
+| 📊 **Herramientas** | MLflow, Looker Studio |
 
+---
 
+## ✨ Proyectos Destacados
 
-<br>
+Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno representa un reto que disfruté resolver!
 
-#### 2. Detección de Objetos en Tiempo Real
-*Implementación de un modelo de visión por computadora para identificar y rastrear objetos en secuencias de video, con aplicaciones en logística y seguridad.*
-
-<br>
-
-**[VIDEO/GIF DE TU PROYECTO DE DETECCIÓN DE OBJETOS AQUÍ]**
-
-<br>
-
-#### 3. Reconocimiento Facial
-*Desarrollo de un sistema de reconocimiento facial capaz de identificar personas en imágenes y video, enfocado en la optimización y precisión del modelo.*
+### 🎯 1. Clusterización para Catálogo de Clientes (Kaggle)
+> Utilicé algoritmos de aprendizaje no supervisado para segmentar clientes, permitiendo así una personalización más efectiva de las estrategias de marketing.
 
 <br>
 
-**[VIDEO/GIF DE TU PROYECTO DE RECONOCIMIENTO FACIAL AQUÍ]**
+<div align="center">
+  <p>🖼️ <strong>[IMAGEN DE TU PROYECTO DE CLUSTERIZACIÓN AQUÍ]</strong> 🖼️</p>
+</div>
+
+<br>
+
+### 👁️ 2. Detección de Objetos en Tiempo Real
+> Implementé un modelo de visión por computadora capaz de identificar y rastrear objetos en secuencias de video, con aplicaciones potenciales en logística y seguridad.
+
+<br>
+
+<div align="center">
+  <p>🎥 <strong>[VIDEO/GIF DE TU PROYECTO DE DETECCIÓN DE OBJETOS AQUÍ]</strong> 🎥</p>
+</div>
+
+<br>
+
+### 👤 3. Reconocimiento Facial
+> Desarrollé un sistema de reconocimiento facial optimizado para identificar personas con alta precisión en imágenes y video.
+
+<br>
+
+<div align="center">
+  <p>📹 <strong>[VIDEO/GIF DE TU PROYECTO DE RECONOCIMIENTO FACIAL AQUÍ]</strong> 📹</p>
+</div>
 
 <br>
 
 ---
 
-### 📫 ¡Hablemos!
+## 📫 ¡Conectemos!
 
-Siempre estoy abierto a conectar con otros profesionales y explorar nuevas oportunidades. Si tienes un reto interesante donde mis habilidades puedan ser de ayuda, no dudes en contactarme.
+Estoy siempre abierto a nuevas oportunidades y a colaborar en proyectos interesantes. Si tienes un reto en mente, ¡hablemos!
 
-* [cite_start]**Email:** [spebaru60@gmail.com](mailto:spebaru60@gmail.com) [cite: 3]
-* [cite_start]**LinkedIn:** [Simon Perez Echavarria](https://www.linkedin.com/in/simon-perez-echavarria-bb2318267) [cite: 6]
-* [cite_start]**GitHub:** [spereze27](https://github.com/spereze27) [cite: 5]
+<p align="center">
+  <a href="mailto:spebaru60@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/simon-perez-echavarria-bb2318267"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/spereze27"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+</p>
