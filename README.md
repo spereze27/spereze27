@@ -32,7 +32,7 @@
 
 <br>
 
-**[IMAGEN DE TU PROYECTO DE CLUSTERIZACIÓN AQUÍ]**
+
 
 <br>
 
