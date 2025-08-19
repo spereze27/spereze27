@@ -55,9 +55,7 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 
 <br>
 
-<div align="center">
-  <p>📹 <strong>[VIDEO/GIF DE TU PROYECTO DE RECONOCIMIENTO FACIAL AQUÍ]</strong> 📹</p>
-</div>
+  ![image](https://github.com/spereze27/spereze27/blob/main/Reconocimiento%20-%201000155913.jpg_screenshot_19.08.2025.png)
 
 <br>
 
