@@ -19,9 +19,9 @@ Soy un **Científico de Datos** con experiencia en el ciclo completo de proyecto
 | **Categoría** | **Tecnologías y Habilidades** |
 | :--- | :--- |
 | 🐍 **Lenguajes** | Python, SQL |
-| ⚙️ **Big Data** | PySpark, Databricks |
-| 🧠 **Machine Learning** | Modelado Predictivo, Visión por Computadora, MLOps |
-| 📊 **Herramientas** | MLflow, Looker Studio |
+| ⚙️ **Big Data** | PySpark, Hadoop |
+| 🧠 **Machine Learning** | Modelos supervisados, Modelos no supervisados, Visión por Computadora, MLOps |
+| 📊 **Herramientas** | MLflow, Looker Studio, Databircks |
 
 ---
 
