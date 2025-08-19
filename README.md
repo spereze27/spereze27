@@ -45,7 +45,7 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 <br>
 
 
- ![Animación de mi proyecto]https://github.com/spereze27/spereze27/blob/main/LogLinkedIn2.mp4)
+ ![Animación de mi proyecto](https://github.com/spereze27/spereze27/blob/main/LogLinkedIn2-ezgif.com-video-to-gif-converter.gif)
 
 
 <br>
