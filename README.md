@@ -35,7 +35,7 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 <br>
 
 <div align="center">
-  <p>🖼️ <strong>https://private-user-images.githubusercontent.com/171607540/443041017-df304023-d3df-49b1-b483-1338d4efd4c9.png?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTU2MTU0MTAsIm5iZiI6MTc1NTYxNTExMCwicGF0aCI6Ii8xNzE2MDc1NDAvNDQzMDQxMDE3LWRmMzA0MDIzLWQzZGYtNDliMS1iNDgzLTEzMzhkNGVmZDRjOS5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwODE5JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDgxOVQxNDUxNTBaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1kZDg5NjBiMTZmYmZiYzg1YmU2OTIxM2MzMTA5ZWU4NmY0M2NlNWY4ZDBjOGYwOGFmM2MzOWQ3NDYwYjM2Y2I3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.kCI1erz9fBgSbJPdXFf7s07JOJMRdW1EvS3prq6EYeE</strong> 🖼️</p>
+  <p>🖼️ <strong>  </strong> 🖼️</p>
 </div>
 
 <br>
