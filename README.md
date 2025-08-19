@@ -34,9 +34,8 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 
 <br>
 
-<div align="center">
-  <p>🖼️ <strong> ![Gráfico de Clusters](https://github.com/spereze27/spereze27/raw/main/443041017-df304023-d3df-49b1-b483-1338d4efd4c9.png) </strong> 🖼️</p>
-</div>
+  ![image](https://github.com/spereze27/spereze27/raw/main/443041017-df304023-d3df-49b1-b483-1338d4efd4c9.png)
+
 
 <br>
 
