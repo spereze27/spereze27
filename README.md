@@ -54,7 +54,9 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 > Desarrollé un sistema de reconocimiento facial optimizado para identificar personas con alta precisión en imágenes y video.
 
 <br>
+ 
   ![Animación de mi proyecto](https://github.com/spereze27/spereze27/blob/main/mallado-ezgif.com-video-to-gif-converter.gif)
+  
   ![image](https://github.com/spereze27/spereze27/blob/main/Reconocimiento%20-%201000155913.jpg_screenshot_19.08.2025.png)
 
 <br>
