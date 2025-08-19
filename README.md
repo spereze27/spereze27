@@ -35,7 +35,7 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 <br>
 
 <div align="center">
-  <p>🖼️ <strong>  </strong> 🖼️</p>
+  <p>🖼️ <strong> https://github.com/spereze27/spereze27/blob/main/443041017-df304023-d3df-49b1-b483-1338d4efd4c9.png </strong> 🖼️</p>
 </div>
 
 <br>
