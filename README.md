@@ -44,9 +44,9 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 
 <br>
 
-<div align="center">
-  <p>🎥 <strong>[VIDEO/GIF DE TU PROYECTO DE DETECCIÓN DE OBJETOS AQUÍ]</strong> 🎥</p>
-</div>
+
+ ![Animación de mi proyecto]https://github.com/spereze27/spereze27/blob/main/LogLinkedIn2.mp4)
+
 
 <br>
 
