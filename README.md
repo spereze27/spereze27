@@ -11,8 +11,7 @@
 </p>
 
 ---
-
-Soy un **Científico de Datos** con experiencia en el ciclo completo de proyectos de analítica, desde la exploración de datos hasta el despliegue de modelos predictivos. Me especializo en **visión por computadora** y en el manejo de **grandes volúmenes de datos**. Me considero una persona creativa, ingeniosa y resiliente, con una gran capacidad para el trabajo en equipo.
+Soy Científico de Datos con experiencia en el ciclo completo de proyectos de analítica, desde la exploración de datos hasta el despliegue de modelos predictivos. Me especializo en visión por computadora y en el manejo de grandes volúmenes de datos. Me considero una persona creativa, ingeniosa y resiliente, con gran capacidad para el trabajo en equipo y, sobre todo, con disposición y motivación para aprender continuamente y enfrentar nuevos retos.
 
 ### 💡 Mis Principales Habilidades
 
