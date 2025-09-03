@@ -62,7 +62,7 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 
 <br>
 
-### 🌀 1. Reconstrucción 3D a partir de Imágenes 2D  
+### 🌀 4. Reconstrucción 3D a partir de Imágenes 2D  
 > Desarrollé un pipeline de visión por computadora que, a partir de una imagen con un objeto de interés, aplica un preprocesamiento para optimizar el rendimiento y emplea el modelo neuronal **TripoSR** para generar una nube de puntos. Con esta representación es posible reconstruir y exportar el objeto en formato **.obj**, abriendo aplicaciones en modelado 3D y realidad aumentada.
 
 
