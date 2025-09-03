@@ -29,6 +29,7 @@ Soy un **Científico de Datos** con experiencia en el ciclo completo de proyecto
 
 Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno representa un reto que disfruté resolver!
 
+
 ### 🎯 1. Clusterización para Catálogo de Clientes (Kaggle)
 > Utilicé algoritmos de aprendizaje no supervisado para segmentar clientes, permitiendo así una personalización más efectiva de las estrategias de marketing.
 
@@ -60,6 +61,18 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
   ![image](https://github.com/spereze27/spereze27/blob/main/Reconocimiento%20-%201000155913.jpg_screenshot_19.08.2025.png)
 
 <br>
+
+### 👁️ 4. Detección de Objetos en Tiempo Real
+> Implementé un modelo de visión por computadora capaz de identificar y rastrear objetos en secuencias de video, con aplicaciones potenciales en logística y seguridad.
+
+<br>
+
+
+ ![Animación de mi proyecto](https://github.com/spereze27/spereze27/blob/main/video_cup.gif)
+
+
+<br>
+
 
 ---
 
