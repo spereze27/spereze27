@@ -73,6 +73,15 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 
 <br>
 
+<br>
+
+
+ ![Animación de mi proyecto](https://github.com/spereze27/spereze27/blob/main/video_squishi.gif)
+
+
+<br>
+
+
 
 ---
 
