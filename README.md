@@ -4,7 +4,7 @@
 
 # 👋 ¡Hola! Soy Simón Pérez Echavarría
 
-## 👨‍💻 Científico de Datos | Apasionado por el Machine Learning y la Automatización
+## 👨‍💻 Científico de Datos | Cloud engineer | Apasionado por el Machine Learning y la Automatización
 
 <p align="center">
   <em>Transformando datos en soluciones de negocio a través de la programación y la analítica avanzada.</em>
