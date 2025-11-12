@@ -28,7 +28,7 @@ Soy Científico de Datos con experiencia en el ciclo completo de proyectos de an
 
 <p align="center">
   <a href="https://www.credly.com/earner/earned/badge/ccc0378f-e3d5-49dd-822b-4d8a9fbea081" target="_blank">
-    <img src="[[https://images.credly.com/earner/earned/badge/ccc0378f-e3d5-49dd-822b-4d8a9fbea081.png" alt="Google Cloud Certified - Associate Cloud Engineer](https://images.credly.com/size/340x340/images/08096465-cbfc-4c3e-93e5-93c5aa61f23e/image.png)](https://github.com/spereze27/spereze27/blob/main/associate-cloud-engineer-certification.png)" width="170">
+    <img src="https://github.com/spereze27/spereze27/raw/main/associate-cloud-engineer-certification.png" alt="Google Cloud Certified - Associate Cloud Engineer" width="170">
   </a>
 </p>
 
