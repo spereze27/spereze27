@@ -24,6 +24,16 @@ Soy Científico de Datos con experiencia en el ciclo completo de proyectos de an
 
 ---
 
+## 🛡️ Mis Certificaciones
+
+<p align="center">
+  <a href="https://www.credly.com/earner/earned/badge/ccc0378f-e3d5-49dd-822b-4d8a9fbea081" target="_blank">
+    <img src="https://images.credly.com/earner/earned/badge/ccc0378f-e3d5-49dd-822b-4d8a9fbea081.png" alt="Google Cloud Certified - Associate Cloud Engineer" width="170">
+  </a>
+</p>
+
+---
+
 ## ✨ Proyectos Destacados
 
 Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno representa un reto que disfruté resolver!
