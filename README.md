@@ -92,14 +92,18 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 <br>
 
 ### 🌌 5. Portafolio interactivo y gamificado estilo "Árbol de Habilidades"
-> Implementé un modelo de visión por computadora capaz de identificar y rastrear objetos en secuencias de video, con aplicaciones potenciales en logística y seguridad.
+> Visualización interactiva de mi trayectoria técnica diseñada como un árbol de habilidades de RPG. Permite explorar mis competencias en Data Science, Cloud y ML de una manera dinámica y gamificada.
 
 <br>
 
 
  ![image](https://github.com/spereze27/spereze27/blob/main/skilltree.png)
  
- <video src="https://github.com/spereze27/spereze27/blob/main/skilltree.mp4?raw=true" width="800" controls muted autoplay loop></video>
+<div align="center">
+  <video src="https://raw.githubusercontent.com/spereze27/spereze27/main/skilltree.mp4" width="100%" controls muted autoplay loop>
+    Tu navegador no soporta el video.
+  </video>
+</div>
 
 <br>
 
