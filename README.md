@@ -100,11 +100,7 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
  ![image](https://github.com/spereze27/spereze27/blob/main/skilltree.png)
 
 
- <div align="center">
-  <video src=" https://github.com/spereze27/spereze27/blob/main/skilltree.mp4" width="100%" controls muted autoplay loop>
-    Tu navegador no soporta el video.
-  </video>
-</div>
+ 
  
 
 
