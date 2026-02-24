@@ -99,11 +99,8 @@ Aquí te muestro algunos de los proyectos en los que he trabajado. ¡Cada uno re
 
  ![image](https://github.com/spereze27/spereze27/blob/main/skilltree.png)
 
-<div align="center">
-  <video src="https://github.com/spereze27/spereze27/blob/main/skilltree.mp4?raw=true" width="100%" muted autoplay loop playsinline>
-  </video>
-</div>
- 
+
+ ![Animación de mi proyecto](https://github.com/spereze27/spereze27/blob/main/skilltree_compressed.mp4)
  
 
 
